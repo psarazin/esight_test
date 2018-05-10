@@ -1,3 +1,6 @@
+// Edit from Sean Prior 9:36am 10th May 2018
+
+
 package com.esighteyewear.cameraplusui;
 
 import android.content.Context;
